@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+.body,
+html {
+  text-align: center;
+  margin: auto;
+  font-family: "stabillo";
+  color: whitesmoke;
+  background-size: cover;
+  position: relative;
+  font-size: 30px;
+
+}
+
+body {
+  background-image: url("../src/assets/githb.jpg");
+}
+
+@import "~bootstrap/dist/css/bootstrap.css"

@@ -1,0 +1,6 @@
+.top {
+  background-image: url("src/assets/imag.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+}
