@@ -5,6 +5,12 @@ An interactive web application that allows one to search for Github users and be
 ## Screenshots
 ![Cherche screenshot](https://user-images.githubusercontent.com/62003825/82325570-1f99fc80-99e4-11ea-92ad-7ed663eb0183.png)
 
+![Screenshot from 2020-05-19 15-14-44](https://user-images.githubusercontent.com/62003825/82418313-83283680-9a85-11ea-93e8-ab39fc2ed860.png)
+
+## Future Development plans
+
+I plan on adding the ability for the search result to display a person's profile's repositorys and be able to see more details
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
