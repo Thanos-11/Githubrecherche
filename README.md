@@ -1,6 +1,6 @@
 # Cherche
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
+An interactive web application that allows one to search for Github users and be able to retreive their profile details and see the list of their repositories and get information of their public profiles with an option to open the actual link to their user profiles for further details
 
 ## Screenshots
 ![Cherche screenshot](https://user-images.githubusercontent.com/62003825/82325570-1f99fc80-99e4-11ea-92ad-7ed663eb0183.png)
